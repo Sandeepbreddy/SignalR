@@ -1,0 +1,14 @@
+C:\Users\sande\Desktop\Sample Work\SignalRChatApp\ChatApp-API\bin\Debug\netcoreapp2.2\ChatApp-API.deps.json
+C:\Users\sande\Desktop\Sample Work\SignalRChatApp\ChatApp-API\bin\Debug\netcoreapp2.2\ChatApp-API.runtimeconfig.json
+C:\Users\sande\Desktop\Sample Work\SignalRChatApp\ChatApp-API\bin\Debug\netcoreapp2.2\ChatApp-API.runtimeconfig.dev.json
+C:\Users\sande\Desktop\Sample Work\SignalRChatApp\ChatApp-API\bin\Debug\netcoreapp2.2\ChatApp-API.dll
+C:\Users\sande\Desktop\Sample Work\SignalRChatApp\ChatApp-API\bin\Debug\netcoreapp2.2\ChatApp-API.pdb
+C:\Users\sande\Desktop\Sample Work\SignalRChatApp\ChatApp-API\obj\Debug\netcoreapp2.2\ChatApp-API.csprojAssemblyReference.cache
+C:\Users\sande\Desktop\Sample Work\SignalRChatApp\ChatApp-API\obj\Debug\netcoreapp2.2\ChatApp-API.csproj.CoreCompileInputs.cache
+C:\Users\sande\Desktop\Sample Work\SignalRChatApp\ChatApp-API\obj\Debug\netcoreapp2.2\ChatApp-API.RazorAssemblyInfo.cache
+C:\Users\sande\Desktop\Sample Work\SignalRChatApp\ChatApp-API\obj\Debug\netcoreapp2.2\ChatApp-API.RazorAssemblyInfo.cs
+C:\Users\sande\Desktop\Sample Work\SignalRChatApp\ChatApp-API\obj\Debug\netcoreapp2.2\ChatApp-API.AssemblyInfoInputs.cache
+C:\Users\sande\Desktop\Sample Work\SignalRChatApp\ChatApp-API\obj\Debug\netcoreapp2.2\ChatApp-API.AssemblyInfo.cs
+C:\Users\sande\Desktop\Sample Work\SignalRChatApp\ChatApp-API\obj\Debug\netcoreapp2.2\ChatApp-API.RazorTargetAssemblyInfo.cache
+C:\Users\sande\Desktop\Sample Work\SignalRChatApp\ChatApp-API\obj\Debug\netcoreapp2.2\ChatApp-API.dll
+C:\Users\sande\Desktop\Sample Work\SignalRChatApp\ChatApp-API\obj\Debug\netcoreapp2.2\ChatApp-API.pdb

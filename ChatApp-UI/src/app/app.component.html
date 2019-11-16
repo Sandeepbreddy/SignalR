@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>ASP.NET Core SignalR</title>
+  </head>
+  <body>
+    <form (ngSubmit)="messageSend()" #loginForm="ngForm">
+      <label id="lblMessage" for="tbMessage">Message:</label>
+      <input
+        type="text"
+        placeholder="message"
+        name="message"
+        [(ngModel)]="message"
+        required
+      />
+      <button id="btnSend" type="submit">Send</button>
+    </form>
+  </body>
+
+  <div id="divMessages" *ngFor="let message of messages">
+    {{ message }}
+  </div>
+</html>
